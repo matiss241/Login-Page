@@ -1,0 +1,24 @@
+#main {
+  background-attachment: fixed;
+  background: linear-gradient(90deg, #bf2604, #f2e41d);
+}
+
+#white-background {
+  border-radius: 3rem;
+}
+
+#email-input,
+#password-input {
+  background-color: #cccccc;
+  opacity: 0.5;
+  text-indent: 2rem;
+}
+#icon {
+  position: relative;
+}
+
+#icon i {
+  position: absolute;
+  left: 15px;
+  top: 5px;
+}
